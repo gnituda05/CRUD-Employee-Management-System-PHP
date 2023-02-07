@@ -19,9 +19,9 @@ A complete HR management web application for organizing employees of a certain o
 
 
 
-#Run:
--Setup your MySQL (employee_salary_system (1).sql)
--http://localhost/Employee-management-system/crud.php
+# Run:
+- Setup your MySQL (employee_salary_system (1).sql)
+- http://localhost/Employee-management-system/crud.php
 
  
 
