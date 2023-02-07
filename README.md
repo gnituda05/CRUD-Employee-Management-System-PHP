@@ -5,12 +5,17 @@ A complete HR management web application for organizing employees of a certain o
   - PHP
   - MySQL
   
+  
+  
+  
 
 # Simple CRUD with features of:
  - Department(ADD, EDIT, DELETE, VIEW)
  - Employee(ADD, EDIT, DELETE, VIEW)
  - Bonus(ADD, EDIT, DELETE, VIEW)
  ![image](https://user-images.githubusercontent.com/70184357/217266479-302b7973-108f-4c07-84a0-b68d2d8ec89a.png)
+
+
 
 
 
